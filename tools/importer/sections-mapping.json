@@ -1,0 +1,117 @@
+{
+  "url": "https://www.rwe.com/en/",
+  "sanitizedPath": "/en/index",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id-594804614",
+              "x": 0,
+              "y": 0,
+              "width": 3280,
+              "height": 8221,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 9
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"short-news\"]/div[@class=\"short-news__slider\"]/div[@class=\"slider-content slick-initialized slick-slider slick-dotted slick-vertical\"]/div[@class=\"slick-list draggable\"]/div[@class=\"slick-track\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[3]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[4]",
+                  "xpathWithDetails": "id(\"off-screen-content\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[6]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"teaser-grid--full-width\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[6]/div[1]/div[1]/article[1]/a[1]/div[1]/video[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"teaser-grid--full-width\"]/div[@class=\"container-fluid\"]/div[@class=\"row\"]/article[@class=\"teaser-width tea01--image-left\"]/a[@class=\"link link--internal\"]/div[@class=\"media-container video-container\"]/video[@class=\"tear01r__video\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]",
+                  "xpathWithDetails": "id(\"off-screen-content\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[9]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/article[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.4)",
+              "mapping": "header",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id--1058648744",
+              "x": 3220,
+              "y": 0,
+              "width": 60,
+              "height": 2198,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "header",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/en/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
