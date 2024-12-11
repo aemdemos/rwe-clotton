@@ -1,36 +1,117 @@
-/* stylelint-disable max-line-length */
+
 @font-face {
-  font-family: roboto-condensed;
+  font-family: slick;
+  src: url('../fonts/slick-normal-normal.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 700;
   font-display: swap;
-  src: url('../fonts/roboto-condensed-bold.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0-10FFFF;
 }
 
 @font-face {
-  font-family: roboto;
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url('../fonts/roboto-bold.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-@font-face {
-  font-family: roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url('../fonts/roboto-medium.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-@font-face {
-  font-family: roboto;
-  font-style: normal;
+  font-family: rwe-iconfont;
+  src: url('../fonts/rwe-iconfont-400-normal.woff') format('woff');
   font-weight: 400;
+  font-style: normal;
   font-display: swap;
-  src: url('../fonts/roboto-regular.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: rwe_icon;
+  src: url('../fonts/rwe-icon-normal-normal.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: regular;
+  src: url('../fonts/regular-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: medium;
+  src: url('../fonts/medium-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: bold;
+  src: url('../fonts/bold-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: "RWE Sans Bold";
+  src: url('../fonts/rwe-sans-bold-bold-normal.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: RWE_Icon_Font;
+  src: url('../fonts/rwe-icon-font-400-normal.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: light;
+  src: url('../fonts/light-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: d-rwe-font;
+  src: url('../fonts/d-rwe-font-500-normal.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: d-rwe-font;
+  src: url('../fonts/d-rwe-font-300-normal.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: d-rwe-font;
+  src: url('../fonts/d-rwe-font-400-normal.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: d-rwe-font;
+  src: url('../fonts/d-rwe-font-700-normal.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
 }
