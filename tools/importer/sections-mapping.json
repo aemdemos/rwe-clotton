@@ -106,7 +106,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.4)",
               "mapping": "defaultContent",
-              "customBlockName": "default1"
+              "customBlockName": "aidefault1"
             },
             {
               "id": "box-id-253484363",
@@ -131,7 +131,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default2"
+              "customBlockName": "aidefault2"
             },
             {
               "id": "box-id-253484394",
@@ -146,7 +146,7 @@
               },
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default3"
+              "customBlockName": "aidefault3"
             },
             {
               "id": "box-id-253484425",
@@ -161,7 +161,7 @@
               },
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default4"
+              "customBlockName": "aidefault4"
             },
             {
               "id": "box-id-253484456",
@@ -176,7 +176,7 @@
               },
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default5"
+              "customBlockName": "aidefault5"
             },
             {
               "id": "box-id--1879209582",
@@ -205,7 +205,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "columns",
-              "customBlockName": "columns1"
+              "customBlockName": "aicolumns1"
             },
             {
               "id": "box-id-253484549",
@@ -230,7 +230,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default6"
+              "customBlockName": "aidefault6"
             },
             {
               "id": "box-id-253484580",
@@ -255,7 +255,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default7"
+              "customBlockName": "aidefault7"
             },
             {
               "id": "box-id--15758981",
@@ -280,7 +280,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": "default8"
+              "customBlockName": "aidefault8"
             }
           ],
           "settings": {}
@@ -307,7 +307,7 @@
               },
               "color": "rgba(75, 0, 130, 0.4)",
               "mapping": "defaultContent",
-              "customBlockName": "footer"
+              "customBlockName": "aifooter"
             }
           ],
           "settings": {}
