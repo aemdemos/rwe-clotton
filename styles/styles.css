@@ -46,17 +46,6 @@
 @font-face {
   font-family:"d-rwe-font Fallback";
   font-style:normal;
-  font-weight:500;
-  src:local("Arial");
-  ascent-override:72.13%;
-  descent-override:19.54%;
-  line-gap-override:6.91%;
-  size-adjust:99.82%;
-}
-
-@font-face {
-  font-family:"d-rwe-font Fallback";
-  font-style:normal;
   font-weight:700;
   src:local("Arial Bold");
   ascent-override:75.65%;
@@ -74,6 +63,17 @@
   descent-override:22.75%;
   line-gap-override:0.00%;
   size-adjust:94.93%;
+}
+
+@font-face {
+  font-family:"d-rwe-font Fallback";
+  font-style:normal;
+  font-weight:500;
+  src:local("Arial");
+  ascent-override:72.13%;
+  descent-override:19.54%;
+  line-gap-override:6.91%;
+  size-adjust:99.82%;
 }
 
 @font-face {
@@ -99,6 +99,39 @@
 }
 
 @font-face {
+  font-family:"RWE Sans Bold Fallback";
+  font-style:normal;
+  font-weight:bold;
+  src:local("Arial Bold");
+  ascent-override:94.65%;
+  descent-override:24.43%;
+  line-gap-override:0.00%;
+  size-adjust:101.95%;
+}
+
+@font-face {
+  font-family:"RWE_Icon_Font Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:93.75%;
+  descent-override:6.25%;
+  line-gap-override:0.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"bold Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:87.48%;
+  descent-override:22.58%;
+  line-gap-override:0.00%;
+  size-adjust:110.30%;
+}
+
+@font-face {
   font-family:"regular Fallback";
   font-style:normal;
   font-weight:400;
@@ -121,17 +154,6 @@
 }
 
 @font-face {
-  font-family:"bold Fallback";
-  font-style:normal;
-  font-weight:400;
-  src:local("Arial");
-  ascent-override:87.48%;
-  descent-override:22.58%;
-  line-gap-override:0.00%;
-  size-adjust:110.30%;
-}
-
-@font-face {
   font-family:"medium Fallback";
   font-style:normal;
   font-weight:400;
@@ -140,28 +162,6 @@
   descent-override:23.08%;
   line-gap-override:0.00%;
   size-adjust:107.94%;
-}
-
-@font-face {
-  font-family:"RWE_Icon_Font Fallback";
-  font-style:normal;
-  font-weight:400;
-  src:local("Arial");
-  ascent-override:93.75%;
-  descent-override:6.25%;
-  line-gap-override:0.00%;
-  size-adjust:100.00%;
-}
-
-@font-face {
-  font-family:"RWE Sans Bold Fallback";
-  font-style:normal;
-  font-weight:bold;
-  src:local("Arial Bold");
-  ascent-override:94.65%;
-  descent-override:24.43%;
-  line-gap-override:0.00%;
-  size-adjust:101.95%;
 }
 
 @media (width>=900px) {

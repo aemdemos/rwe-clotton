@@ -10,15 +10,6 @@
 
 @font-face {
   font-family: d-rwe-font;
-  src: url('../fonts/d-rwe-font-500-normal.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: d-rwe-font;
   src: url('../fonts/d-rwe-font-700-normal.woff') format('woff');
   font-weight: 700;
   font-style: normal;
@@ -37,6 +28,15 @@
 
 @font-face {
   font-family: d-rwe-font;
+  src: url('../fonts/d-rwe-font-500-normal.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: d-rwe-font;
   src: url('../fonts/d-rwe-font-400-normal.woff') format('woff');
   font-weight: 400;
   font-style: normal;
@@ -47,6 +47,33 @@
 @font-face {
   font-family: rwe-iconfont;
   src: url('../fonts/rwe-iconfont-400-normal.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: "RWE Sans Bold";
+  src: url('../fonts/rwe-sans-bold-bold-normal.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: RWE_Icon_Font;
+  src: url('../fonts/rwe-icon-font-400-normal.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: bold;
+  src: url('../fonts/bold-400-normal.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -72,36 +99,9 @@
 }
 
 @font-face {
-  font-family: bold;
-  src: url('../fonts/bold-400-normal.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
   font-family: medium;
   src: url('../fonts/medium-400-normal.woff2') format('woff2');
   font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: RWE_Icon_Font;
-  src: url('../fonts/rwe-icon-font-400-normal.ttf') format('ttf');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: "RWE Sans Bold";
-  src: url('../fonts/rwe-sans-bold-bold-normal.woff2') format('woff2');
-  font-weight: bold;
   font-style: normal;
   font-display: swap;
   unicode-range: U+0-10FFFF;
